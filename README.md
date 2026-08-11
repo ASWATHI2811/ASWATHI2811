@@ -66,7 +66,6 @@ My goal is to continuously grow as a **Data Analyst / Data Scientist** and contr
 
 </div>
 
-> **Note:** Replace the above badges with your actual certifications if you have specific certification names, issuing organizations, or credential links.
 
 ---
 
